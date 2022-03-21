@@ -1,2 +1,2 @@
 # react-hooks-practise
-Created with CodeSandbox
+Simple app made to practise useContext hook in React
